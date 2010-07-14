@@ -7,6 +7,7 @@ public class WebAuth {
 	public static String SUID_KEY = "suid";
 	public static String FIRSTNAME_KEY = "first_name";
 	public static String LASTNAME_KEY = "last_name";
+	public static String EMAIL_SUFFIX = "@stanford.edu";
 	
 	public WebAuth() {}
 	
